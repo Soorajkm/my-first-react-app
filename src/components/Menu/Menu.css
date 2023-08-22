@@ -1,0 +1,12 @@
+.menu{
+    text-align: right;
+    background-color: #cbcbe0;
+    line-height: 40px;
+}
+.menu > a{
+    margin-right:15px;
+    letter-spacing: 4px;
+    font-weight: bold;
+    color:white;
+    font-style:italic;
+}
